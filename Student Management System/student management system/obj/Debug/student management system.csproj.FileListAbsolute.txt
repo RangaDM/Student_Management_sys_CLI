@@ -1,0 +1,8 @@
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\project\student management system\student management system\bin\Debug\student management system.exe.config
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\project\student management system\student management system\bin\Debug\student management system.exe
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\project\student management system\student management system\bin\Debug\student management system.pdb
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\project\student management system\student management system\obj\Debug\student management system.csproj.AssemblyReference.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\project\student management system\student management system\obj\Debug\student management system.csproj.SuggestedBindingRedirects.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\project\student management system\student management system\obj\Debug\student management system.csproj.CoreCompileInputs.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\project\student management system\student management system\obj\Debug\student management system.exe
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\project\student management system\student management system\obj\Debug\student management system.pdb
